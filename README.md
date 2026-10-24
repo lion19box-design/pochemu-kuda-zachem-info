@@ -64,3 +64,5 @@
 ---
 
 **РђРІС‚РѕСЂ РїСЂРѕРµРєС‚Р°:** Yehor Kudin (Р•РіРѕСЂ РљСѓРґРёРЅ)
+
+- ?? **Статья автора о разработке и геймдизайне ПКЗ на vc.ru:** [https://vc.ru/dev/3214236-sozdanie-pkz-besplatnogo-brauzernogo-klona-chgk-dlya-druzey](https://vc.ru/dev/3214236-sozdanie-pkz-besplatnogo-brauzernogo-klona-chgk-dlya-druzey)
