@@ -66,3 +66,4 @@
 **РђРІС‚РѕСЂ РїСЂРѕРµРєС‚Р°:** Yehor Kudin (Р•РіРѕСЂ РљСѓРґРёРЅ)
 
 - ?? **Статья автора о разработке и геймдизайне ПКЗ на vc.ru:** [https://vc.ru/dev/3214236-sozdanie-pkz-besplatnogo-brauzernogo-klona-chgk-dlya-druzey](https://vc.ru/dev/3214236-sozdanie-pkz-besplatnogo-brauzernogo-klona-chgk-dlya-druzey)
+- ?? **Разбор геймдизайна и механики Крупье на DTF:** [https://dtf.ru/gamedev/5380128-intellektualnoe-kazino-90-h-dlya-igr-v-discord-pkz](https://dtf.ru/gamedev/5380128-intellektualnoe-kazino-90-h-dlya-igr-v-discord-pkz)
